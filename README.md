@@ -22,6 +22,16 @@ This project is a Password Strength Checker developed in Python. It checks the s
 3. Run:
    python password_checker.py
 4. Enter a password when prompted.
+## Sample Outputs
+
+### Weak Password
+![Weak Password](screenshots/weak_password.png)
+
+### Medium Password
+![Medium Password](screenshots/medium_password.png)
+
+### Strong Password
+![Strong Password](screenshots/strong_password.png)
 
 ## Author
 Abhay B S
